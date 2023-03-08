@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: lightgbm
+Version: 2.0.3
+Summary: LightGBM Python Package
+Home-page: https://github.com/Microsoft/LightGBM
+Author: Guolin Ke
+Author-email: guolin.ke@microsoft.com
+License: The MIT License(https://github.com/Microsoft/LightGBM/blob/master/LICENSE)
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: wheel
+
+UNKNOWN
+
+
